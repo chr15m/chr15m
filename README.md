@@ -6,7 +6,7 @@ Here's a thing I've been working on recently:
 
 <div align="center">
   <a href="https://chr15m.itch.io/roguelike-browser-boilerplate">
-    <img src="roguelike-browser-boilerplate-banner.png"
+    <img src="https://img.itch.zone/aW1nLzQwMDczOTAucG5n/315x250%23c/WaOcnf.png"
          title="Roguelike Browser Boilerplate"
          alt="Roguelike Browser Boilerplate"/><br/>
     Want to make your own roguelike game?<br/>
