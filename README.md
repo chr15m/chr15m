@@ -32,7 +32,8 @@ Here's a thing I've been working on recently:
   </a>-->
 </div>
 
-👇 More software and stuff below!
+
+👇 and more below!
 
 <!--
 ![GitHub statistics for chr15m](https://github-readme-stats.vercel.app/api?username=chr15m&show_icons=true&count_private=true&hide_rank=true)
