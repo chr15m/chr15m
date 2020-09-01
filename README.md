@@ -20,7 +20,8 @@ Here are some things I've been working on recently:
   <a href="https://slingcode.net/">
     <img src="slingcode-banner.png"
          title="Slingcode online editor"
-         alt="Slingcode online editor"><br/>
+         alt="Slingcode online editor"
+         width="315"><br/>
     Slingcode is a beginner-friendly web based
     IDE and personal computing platform.
   </a>
