@@ -1,4 +1,4 @@
-Hey there! My name is Chris and I really love writing code.
+Hey there! 👋 My name is Chris and I really love writing code.
 
 You can find me online:
 
