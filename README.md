@@ -13,16 +13,26 @@ Here are some things I've been working on recently:
     <img src="https://img.itch.zone/aW1nLzQwMDczOTAucG5n/315x250%23c/WaOcnf.png"
          title="Roguelike Browser Boilerplate"
          alt="Roguelike Browser Boilerplate"/>
-    Want to make your own roguelike game?
-    Use this web app template to get a head start.
+    <p>Want to make your own roguelike game?<br/>
+       Use this web app template to get a head start.</p>
   </a>
 
   <a href="https://slingcode.net/">
     <img src="slingcode-banner.png"
          title="Slingcode online editor"
-         alt="Slingcode online editor">
-    Slingcode is a beginner-friendly web based
-    IDE and personal computing platform.
+         alt="Slingcode online editor"
+         width="315">
+    <p>Slingcode is a beginner-friendly web based<br/>
+       IDE and personal computing platform.</p>
+  </a>
+
+  <a href="">
+    <img src="https://raw.githubusercontent.com/infinitelives/px3d/master/gifs/around.gif"
+         title="px3d"
+         alt="px3d"
+         width="315">
+    <p>px3d ClojureScript 3d game engine<br/>
+       with Blender live-reloading.</p>
   </a>
 </div>
 
