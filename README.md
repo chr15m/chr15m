@@ -8,7 +8,7 @@ You can find me online:
 
 Here are some things I've been working on recently:
 
-<div style="text-align:center;">
+<div align="center">
   <a href="https://chr15m.itch.io/roguelike-browser-boilerplate">
     <img src="https://img.itch.zone/aW1nLzQwMDczOTAucG5n/315x250%23c/WaOcnf.png"
          title="Roguelike Browser Boilerplate"
@@ -36,4 +36,6 @@ Here are some things I've been working on recently:
   </a>
 </div>
 
+<!--
 ![GitHub statistics for chr15m](https://github-readme-stats.vercel.app/api?username=chr15m&show_icons=true&count_private=true&hide_rank=true)
+-->
