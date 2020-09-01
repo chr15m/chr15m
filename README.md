@@ -6,7 +6,7 @@ You can find me online:
  * [@mccrmx on Twitter](https://twitter.com/mccrmx)
  * [YouTube screencasts](https://www.youtube.com/user/mccormix)
 
-Here are some things I've been working on recently:
+Here's a thing I've been working on recently:
 
 <div align="center">
   <a href="https://chr15m.itch.io/roguelike-browser-boilerplate">
@@ -17,7 +17,7 @@ Here are some things I've been working on recently:
     Use this web app template to get a head start.
   </a>
 
-  <a href="https://slingcode.net/">
+  <!--<a href="https://slingcode.net/">
     <img src="slingcode-banner.png"
          title="Slingcode online editor"
          alt="Slingcode online editor"
@@ -33,7 +33,7 @@ Here are some things I've been working on recently:
          width="315"><br/>
     px3d ClojureScript 3d game engine<br/>
     with Blender live-reloading.
-  </a>
+  </a>-->
 </div>
 
 <!--
