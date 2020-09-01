@@ -13,8 +13,8 @@ Here are some things I've been working on recently:
     <img src="https://img.itch.zone/aW1nLzQwMDczOTAucG5n/315x250%23c/WaOcnf.png"
          title="Roguelike Browser Boilerplate"
          alt="Roguelike Browser Boilerplate"/>
-    <p>Want to make your own roguelike game?<br/>
-       Use this web app template to get a head start.</p>
+    <!--<p>Want to make your own roguelike game?<br/>
+       Use this web app template to get a head start.</p>-->
   </a>
 
   <a href="https://slingcode.net/">
@@ -22,8 +22,8 @@ Here are some things I've been working on recently:
          title="Slingcode online editor"
          alt="Slingcode online editor"
          width="315">
-    <p>Slingcode is a beginner-friendly web based<br/>
-       IDE and personal computing platform.</p>
+    <!--<p>Slingcode is a beginner-friendly web based<br/>
+       IDE and personal computing platform.</p>-->
   </a>
 
   <a href="">
@@ -31,8 +31,8 @@ Here are some things I've been working on recently:
          title="px3d"
          alt="px3d"
          width="315">
-    <p>px3d ClojureScript 3d game engine<br/>
-       with Blender live-reloading.</p>
+    <!--<p>px3d ClojureScript 3d game engine<br/>
+       with Blender live-reloading.</p>-->
   </a>
 </div>
 
