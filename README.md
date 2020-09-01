@@ -1,10 +1,6 @@
 Hey there! 👋 My name is Chris and I really love writing code.
 
-You can find me online:
-
- * [mccormick.cx](https://mccormick.cx)
- * [@mccrmx on Twitter](https://twitter.com/mccrmx)
- * [YouTube screencasts](https://www.youtube.com/user/mccormix)
+You can find me online at [mccormick.cx](https://mccormick.cx) and [@mccrmx](https://twitter.com/mccrmx) and [on YouTube](https://www.youtube.com/user/mccormix).
 
 Here's a thing I've been working on recently:
 
@@ -35,6 +31,8 @@ Here's a thing I've been working on recently:
     with Blender live-reloading.
   </a>-->
 </div>
+
+👇 More software and stuff below!
 
 <!--
 ![GitHub statistics for chr15m](https://github-readme-stats.vercel.app/api?username=chr15m&show_icons=true&count_private=true&hide_rank=true)
