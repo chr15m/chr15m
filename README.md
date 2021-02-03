@@ -1,9 +1,19 @@
-Hey there! 👋 My name is Chris and I really love writing code.
+Hey there! 👋 My name is Chris and I love writing code.
 
 You can find me online at [mccormick.cx](https://mccormick.cx) and [@mccrmx](https://twitter.com/mccrmx) and [on YouTube](https://www.youtube.com/user/mccormix).
 
-Here's a thing I've been working on recently:
+Here are some sites I run:
 
+ * hostedgitea.com - [you can get a hosted Gitea box here](https://hostedgitea.com).
+ * dopeloop.ai - [music apps using AI & procgen](https://dopeloop.ai).
+ * roguemake.com - [roguelike games, resources, and articles](https://roguemake.com).
+ * slingcode.net - [online IDE for web app development](https://slingcode.net).
+ * droidparty.net - [Pure Data for Android](https://droidparty.net).
+ * pocketoperations.com - [Pocket Operator cases, apps, cheatsheets, etc](https://pocketoperations.com).
+ * infinitelives.github.io - [game dev with Clojure](https://infinitelives.github.io).
+ * svgflipbook.com - [inkscape animation](https://svgflipbook.com).
+
+<!--
 <div align="center">
   <a href="https://chr15m.itch.io/roguelike-browser-boilerplate">
     <img src="https://img.itch.zone/aW1nLzQwMDczOTAucG5n/315x250%23c/WaOcnf.png"
@@ -13,7 +23,7 @@ Here's a thing I've been working on recently:
     Use this web app template to get a head start.
   </a>
 
-  <!--<a href="https://slingcode.net/">
+  <a href="https://slingcode.net/">
     <img src="slingcode-banner.png"
          title="Slingcode online editor"
          alt="Slingcode online editor"
@@ -29,11 +39,9 @@ Here's a thing I've been working on recently:
          width="315"><br/>
     px3d ClojureScript 3d game engine<br/>
     with Blender live-reloading.
-  </a>-->
+  </a>
 </div>
-
-
-👇 and more below!
+-->
 
 <!--
 ![GitHub statistics for chr15m](https://github-readme-stats.vercel.app/api?username=chr15m&show_icons=true&count_private=true&hide_rank=true)
