@@ -4,14 +4,20 @@ You can find me online at [mccormick.cx](https://mccormick.cx) and [@mccrmx](htt
 
 Here are some sites I run:
 
- * hostedgitea.com - [you can get a hosted Gitea box here](https://hostedgitea.com).
- * dopeloop.ai - [music apps using AI & procgen](https://dopeloop.ai).
- * roguemake.com - [roguelike games, resources, and articles](https://roguemake.com).
- * slingcode.net - [online IDE for web app development](https://slingcode.net).
- * droidparty.net - [Pure Data for Android](https://droidparty.net).
- * pocketoperations.com - [Pocket Operator cases, apps, cheatsheets, etc](https://pocketoperations.com).
+ * <dopeloop.ai> - [music apps using AI & procgen](https://dopeloop.ai).
+ * <thepunkcollective.com> - [one game per month games company](https://thepunkcollective.com).
+ * <sfxr.me> - [8 bit sound effects maker](https://sfxr.me).
+ * <slingcode.net> - [online IDE for web app development](https://slingcode.net).
+ * <droidparty.net> - [Pure Data for Android](https://droidparty.net).
+ * <pocketoperations.com> - [Pocket Operator cases, apps, cheatsheets, etc](https://pocketoperations.com).
+
+<!--
+
  * infinitelives.github.io - [game dev with Clojure](https://infinitelives.github.io).
  * svgflipbook.com - [inkscape animation](https://svgflipbook.com).
+ * hostedgitea.com - [you can get a hosted Gitea box here](https://hostedgitea.com).
+
+-->
 
 <!--
 <div align="center">
