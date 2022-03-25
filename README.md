@@ -4,6 +4,7 @@ You can find me online at [mccormick.cx](https://mccormick.cx) and [@mccrmx](htt
 
 Here are some sites I run:
 
+ * [rogule.com - a daily roguelike game](https://rogule.com).
  * [dopeloop.ai - music apps using AI & procgen](https://dopeloop.ai).
  * [thepunkcollective.com - one game per month games company](https://thepunkcollective.com).
  * [sfxr.me - 8 bit sound effects maker](https://sfxr.me).
