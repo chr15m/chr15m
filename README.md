@@ -1,6 +1,9 @@
 Hey there! 👋 My name is Chris and I love writing code.
 
-You can find me online at [mccormick.cx](https://mccormick.cx) and [@mccrmx](https://twitter.com/mccrmx) and [on YouTube](https://www.youtube.com/user/mccormix).
+You can find me online at [mccormick.cx](https://mccormick.cx)
+and on <a rel="me" href="https://mccormick.cx/@chris">Mastodon</a>
+and on [Twitter @mccrmx](https://twitter.com/mccrmx)
+and [on YouTube](https://www.youtube.com/user/mccormix).
 
 Here are some sites I run:
 
