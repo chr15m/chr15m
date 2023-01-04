@@ -9,7 +9,7 @@ Here are some sites I run:
 
  * 🎹 [dopeloop.ai - music apps using AI & procgen](https://dopeloop.ai).
  * 👾 [sfxr.me - 8 bit sound effects maker](https://sfxr.me).
- * 🖧 [hostdgitea.com - Fully managed Gitea hosting](https://hostedgitea.com).
+ * 🖧 [hostedgitea.com - Fully managed Gitea hosting](https://hostedgitea.com).
  * 🧝 [rogule.com - a daily roguelike game](https://rogule.com).
  * 🤓 [slingcode.net - online IDE for web app development](https://slingcode.net).
  * 📱 [droidparty.net - Pure Data for Android](https://droidparty.net).
