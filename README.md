@@ -7,11 +7,11 @@ and [on YouTube](https://www.youtube.com/user/mccormix).
 
 Here are some sites I run:
 
- * 🧝 [rogule.com - a daily roguelike game](https://rogule.com).
  * 🎹 [dopeloop.ai - music apps using AI & procgen](https://dopeloop.ai).
  * 🎮 [thepunkcollective.com - one game per month games company](https://thepunkcollective.com).
  * 👾 [sfxr.me - 8 bit sound effects maker](https://sfxr.me).
- * 💻 [c64core - retrocomputing aesthetics twitter bot](https://twitter.com/c64core)
+ * 🖧 [hostdgitea.com - easy Gitea server hosting](https://hostedgitea.com).
+ * 🧝 [rogule.com - a daily roguelike game](https://rogule.com).
  * 🤓 [slingcode.net - online IDE for web app development](https://slingcode.net).
  * 📱 [droidparty.net - Pure Data for Android](https://droidparty.net).
  * 🎛️ [pocketoperations.com - Pocket Operator cases, apps, cheatsheets, etc](https://pocketoperations.com).
